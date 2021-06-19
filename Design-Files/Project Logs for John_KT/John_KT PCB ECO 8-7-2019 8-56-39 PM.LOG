@@ -1,0 +1,19 @@
+Added Component: Designator=J6(TC2030-IDC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.tag-connect.com/Materials/TC2030-MCP%20Datasheet.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.tag-connect.com/Materials/TC2030-MCP%20Datasheet.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tag-Connect"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TC2030-IDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=43.71 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "284"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "TC2030-IDC-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=M_VDD Pin=J6-1
+Added Pin To Net: NetName=M_VDD Pin=J6-1
+Added Pin To Net: NetName=SWCLK Pin=J6-2
+Added Pin To Net: NetName=SWDIO Pin=J6-3
+Added Pin To Net: NetName=RST Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J6-6
+Added Member To Class: ClassName=Controller_Section Member=Component J6 TC2030-IDC

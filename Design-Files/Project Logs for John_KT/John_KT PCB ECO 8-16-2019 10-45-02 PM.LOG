@@ -1,0 +1,23 @@
+Change Component Description : Designator=L3 Old Description=6.8×6.5mm Max.(L×W)3.2mm Max. Height.
+·Inductance Range: 0.10~10.00 µH New Description=6.8×6.5mm Max.(L×W)3.2mm Max. Height.
+·Inductance Range: 0.10~10.00 µH
+Change Component Description : Designator=L4 Old Description=6.8×6.5mm Max.(L×W)3.2mm Max. Height.
+·Inductance Range: 0.10~10.00 µH New Description=6.8×6.5mm Max.(L×W)3.2mm Max. Height.
+·Inductance Range: 0.10~10.00 µH
+Added Component: Designator=J7(TC2050-IDC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tag-Connect"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TC2050-XILINX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=30.85 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "TC2050-XILINX-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=M_VDD Pin=J7-1
+Added Pin To Net: NetName=SWDIO Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=SWCLK Pin=J7-4
+Added Pin To Net: NetName=GND Pin=J7-5
+Added Pin To Net: NetName=GND Pin=J7-9
+Added Pin To Net: NetName=RST Pin=J7-10
+Added Member To Class: ClassName=Controller_Section Member=Component J7 TC2050-IDC

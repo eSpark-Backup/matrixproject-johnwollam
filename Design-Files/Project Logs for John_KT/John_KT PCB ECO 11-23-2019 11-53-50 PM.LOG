@@ -1,0 +1,10 @@
+Added Component: Designator=J7(JTAG 10Pin 1.27mm)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=M_VDD Pin=J7-1
+Added Pin To Net: NetName=SWDIO Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=SWCLK Pin=J7-4
+Added Pin To Net: NetName=GND Pin=J7-5
+Added Pin To Net: NetName=GND Pin=J7-9
+Added Pin To Net: NetName=RST Pin=J7-10
+Added Member To Class: ClassName=Controller_Section Member=Component J7 JTAG 10Pin 1.27mm

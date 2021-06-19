@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=C2 NewDesignator=C23
+Change Component Designator: OldDesignator=C23 NewDesignator=C2
+Added Member To Class: ClassName=Power_Section Member=Component C2 10uF
+Added Member To Class: ClassName=Power_Section Member=Component C23 10uF

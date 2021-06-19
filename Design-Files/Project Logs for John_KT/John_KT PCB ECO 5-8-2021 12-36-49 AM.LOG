@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=GPIOY0_O Pin=J6-1
+Removed Pin From Net: NetName=GPIOY1_O Pin=J6-3
+Removed Pin From Net: NetName=GPIOY2_O Pin=J6-5
+Removed Pin From Net: NetName=GPIOY3_O Pin=J6-7
+Removed Pin From Net: NetName=GPIOY4_O Pin=J6-9
+Removed Pin From Net: NetName=GPIOH0_O Pin=R38-1
+Removed Pin From Net: NetName=GND Pin=R38-2
+Removed Pin From Net: NetName=GPIOH1_O Pin=R46-1
+Removed Pin From Net: NetName=GND Pin=R46-2
+Removed Pin From Net: NetName=GPIOH2_O Pin=R48-1
+Removed Pin From Net: NetName=GND Pin=R48-2
+Removed Pin From Net: NetName=GPIOH3_O Pin=R50-1
+Removed Pin From Net: NetName=GND Pin=R50-2
+Removed Pin From Net: NetName=GND Pin=R120-1
+Removed Pin From Net: NetName=GPIOH0_O# Pin=R120-2
+Removed Pin From Net: NetName=GND Pin=R121-1
+Removed Pin From Net: NetName=GPIOH1_O# Pin=R121-2
+Removed Pin From Net: NetName=GND Pin=R122-1
+Removed Pin From Net: NetName=GPIOH2_O# Pin=R122-2
+Removed Pin From Net: NetName=GND Pin=R123-1
+Removed Pin From Net: NetName=GPIOH3_O# Pin=R123-2
+Change Component Description : Designator=L1 Old Description=2.2uH ±20% 5.5A 29mO SMD,5.75x5.2x3mm Inductors (SMD) RoHS New Description=2.2uH ±20% 5.5A 29mO SMD,5.75x5.2x3mm Inductors (SMD) RoHS
+Added Pin To Net: NetName=GND Pin=R38-1
+Added Pin To Net: NetName=GPIOH0_O Pin=R38-2
+Added Pin To Net: NetName=GND Pin=R46-1
+Added Pin To Net: NetName=GPIOH1_O Pin=R46-2
+Added Pin To Net: NetName=GND Pin=R48-1
+Added Pin To Net: NetName=GPIOH2_O Pin=R48-2
+Added Pin To Net: NetName=GND Pin=R50-1
+Added Pin To Net: NetName=GPIOH3_O Pin=R50-2
+Added Pin To Net: NetName=GPIOH0_O# Pin=R120-1
+Added Pin To Net: NetName=GND Pin=R120-2
+Added Pin To Net: NetName=GPIOH1_O# Pin=R121-1
+Added Pin To Net: NetName=GND Pin=R121-2
+Added Pin To Net: NetName=GPIOH2_O# Pin=R122-1
+Added Pin To Net: NetName=GND Pin=R122-2
+Added Pin To Net: NetName=GPIOH3_O# Pin=R123-1
+Added Pin To Net: NetName=GND Pin=R123-2
+Added Net: Name=OPT_IN1
+Added Net: Name=OPT_IN2
+Added Net: Name=OPT_IN3
+Added Net: Name=OPT_IN4
+Added Net: Name=OPT_IN5
+Added Pin To Net: NetName=OPT_OUT1 Pin=J6-1
+Added Net: Name=OPT_OUT1
+Added Pin To Net: NetName=OPT_OUT2 Pin=J6-3
+Added Net: Name=OPT_OUT2
+Added Pin To Net: NetName=OPT_OUT3 Pin=J6-5
+Added Net: Name=OPT_OUT3
+Added Pin To Net: NetName=OPT_OUT4 Pin=J6-7
+Added Net: Name=OPT_OUT4
+Added Pin To Net: NetName=OPT_OUT5 Pin=J6-9
+Added Net: Name=OPT_OUT5
+Added Net: Name=PIN4_1
+Added Net: Name=PIN4_2
+Added Net: Name=PIN4_3
+Added Net: Name=PIN4_4
+Added Net: Name=PIN4_5

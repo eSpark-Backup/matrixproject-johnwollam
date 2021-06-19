@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=C23-2
+Removed Member From Class: ClassName=Power_Section Member=C23
+Change Component Designator: OldDesignator=C23 NewDesignator=C2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-2
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC2_2

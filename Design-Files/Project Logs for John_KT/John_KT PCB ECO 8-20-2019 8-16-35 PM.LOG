@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetL6_1 Pin=D3-K
+Added Pin To Net: NetName=5V Pin=D1-A
+Added Pin To Net: NetName=MCU_5V Pin=D1-K
+Added Pin To Net: NetName=VBUS Pin=D2-A
+Added Pin To Net: NetName=MCU_5V Pin=D2-K
+Added Pin To Net: NetName=NetL6_1 Pin=USB1-1
+Added Member To Class: ClassName=USB_Section Member=Component D1 PMEG3010ER,115
+Added Member To Class: ClassName=USB_Section Member=Component D2 PMEG3010ER,115

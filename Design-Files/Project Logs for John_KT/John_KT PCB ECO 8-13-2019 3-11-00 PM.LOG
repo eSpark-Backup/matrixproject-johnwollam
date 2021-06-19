@@ -1,0 +1,15 @@
+Change Component Description : Designator=L3 Old Description=6.8×6.5mm Max.(L×W)3.2mm Max. Height.
+·Inductance Range: 0.10~10.00 µH New Description=6.8×6.5mm Max.(L×W)3.2mm Max. Height.
+·Inductance Range: 0.10~10.00 µH
+Change Component Description : Designator=L4 Old Description=6.8×6.5mm Max.(L×W)3.2mm Max. Height.
+·Inductance Range: 0.10~10.00 µH New Description=6.8×6.5mm Max.(L×W)3.2mm Max. Height.
+·Inductance Range: 0.10~10.00 µH
+Added Pin To Net: NetName=NetQ22_3 Pin=Q22-3
+Added Pin To Net: NetName=NetQ22_3 Pin=R68-2
+Added Net: Name=NetQ22_3
+Added Room: Name=Controller_Section
+Added Room: Name=Controller_Section
+Added Room: Name=Controller_Section
+Added Room: Name=MOSFET_Section
+Added Room: Name=Power_Section
+Added Room: Name=Top Sheet

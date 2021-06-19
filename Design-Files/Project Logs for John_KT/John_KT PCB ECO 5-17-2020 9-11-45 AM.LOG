@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=5V_TTL Pin=CF6-1
+Added Pin To Net: NetName=5V_TTL Pin=CF7-1
+Added Pin To Net: NetName=5V_TTL Pin=CF8-1
+Added Pin To Net: NetName=5V_TTL Pin=D1-A
+Added Pin To Net: NetName=5V_TTL Pin=LF1-2
+Added Pin To Net: NetName=5V_TTL Pin=RF2-1
+Change Net Name : Old Net Name=5V_TTL New Net Name=5V

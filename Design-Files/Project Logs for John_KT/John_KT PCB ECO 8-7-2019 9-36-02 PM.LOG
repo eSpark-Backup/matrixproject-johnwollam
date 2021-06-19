@@ -1,0 +1,125 @@
+Removed Member From Class: ClassName=Controller_Section Member=C24
+Removed Member From Class: ClassName=Power_Section Member=C33
+Removed Member From Class: ClassName=USB_Section Member=C42
+Removed Member From Class: ClassName=USB_Section Member=C51
+Removed Member From Class: ClassName=Power_Section Member=C65
+Removed Member From Class: ClassName=Power_Section Member=C67
+Removed Member From Class: ClassName=MOSFET_Section Member=C73
+Removed Member From Class: ClassName=Power_Section Member=C73
+Removed Member From Class: ClassName=MOSFET_Section Member=C75
+Removed Member From Class: ClassName=Controller_Section Member=J6
+Removed Member From Class: ClassName=MOSFET_Section Member=J8
+Removed Member From Class: ClassName=Controller_Section Member=LED20
+Removed Member From Class: ClassName=MOSFET_Section Member=R3
+Removed Member From Class: ClassName=Controller_Section Member=R13
+Removed Member From Class: ClassName=Power_Section Member=R16
+Removed Member From Class: ClassName=Controller_Section Member=R40
+Removed Member From Class: ClassName=Power_Section Member=R40
+Removed Member From Class: ClassName=MOSFET_Section Member=R52
+Removed Member From Class: ClassName=MOSFET_Section Member=R58
+Removed Member From Class: ClassName=USB_Section Member=R58
+Removed Member From Class: ClassName=MOSFET_Section Member=R116
+Removed Member From Class: ClassName=MOSFET_Section Member=R118
+Added Component: Designator=F1(MF-MSMF250/16X-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Approvals"; Value = "UL,CSA,TUV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "4532"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.bourns.com/data/global/PDFs/MFMSMF.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.bourns.com/data/global/PDFs/MFMSMF.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.onlinecomponents.com/productFiles/mf-BO/mfmsmf.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onlinecomponents.com/productFiles/mf-BO/mfmsmf.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.bourns.com/docs/Product-Datasheets/mfmsmf.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.bourns.com/docs/Product-Datasheets/mfmsmf.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://www.distrelec.biz/Web/Downloads/_t/ds/MF-MSMF-series_eng_tds.pdf?mime=application%2Fpdf&src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.distrelec.biz/Web/Downloads/_t/ds/MF-MSMF-series_eng_tds.pdf?mime=application%2Fpdf&src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://www.bourns.com/docs/Product-Datasheets/mfmsmf.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://www.bourns.com/docs/Product-Datasheets/mfmsmf.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://www.bourns.com/data/global/PDFs/MFMSMF.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://www.bourns.com/data/global/PDFs/MFMSMF.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://www.alliedelec.com/m/d/cf35a02888a9c5f02c699b5f7c4f475e.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.alliedelec.com/m/d/cf35a02888a9c5f02c699b5f7c4f475e.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "http://www.farnell.com/datasheets/2038616.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "http://www.farnell.com/datasheets/2038616.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "http://www.produktinfo.conrad.com/datenblaetter/1000000-1099999/001055646-da-01-en-SICH_PTC_RESET_MF_MSMF250_16X_2__2_5A16V.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "http://www.produktinfo.conrad.com/datenblaetter/1000000-1099999/001055646-da-01-en-SICH_PTC_RESET_MF_MSMF250_16X_2__2_5A16V.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "100A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hold Current"; Value = "2.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.73mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MF-MSMF250/16X-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "100A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount,PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "1.2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.76, 5=0.742, 10=0.719, 50=0.6048, 100=0.5022, 250=0.45652, 500=0.38802 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "30065"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MF-MSMF250/16X-2DKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Time to Trip"; Value = "5s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trip Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.41mm"; VariantName = "[No Variations]"
+Added Component: Designator=J10(Socket)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=L3(SHCJ73-100M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "SUNTEK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "SHCJ73-100M"; VariantName = "[No Variations]"
+Added Component: Designator=L4(SHCJ73-100M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "SUNTEK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "SHCJ73-100M"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC14_2 Pin=F1-1
+Added Pin To Net: NetName=12V Pin=F1-2
+Added Pin To Net: NetName=SWDIO Pin=J10-1
+Added Pin To Net: NetName=Output Pin=L3-1
+Added Pin To Net: NetName=5V Pin=L3-2
+Added Pin To Net: NetName=Output Pin=L4-1
+Added Pin To Net: NetName=5V Pin=L4-2
+Added Member To Class: ClassName=Power_Section Member=Component C22 0.1uF
+Added Member To Class: ClassName=Power_Section Member=Component C28 22pF
+Added Member To Class: ClassName=MOSFET_Section Member=Component C34 0.1uF
+Added Member To Class: ClassName=MOSFET_Section Member=Component C36 0.1uF
+Added Member To Class: ClassName=USB_Section Member=Component C39 10uF
+Added Member To Class: ClassName=USB_Section Member=Component C41 47pF
+Added Member To Class: ClassName=Controller_Section Member=Component C67 22pF
+Added Member To Class: ClassName=Power_Section Member=Component F1 MF-MSMF250/16X-2
+Added Member To Class: ClassName=MOSFET_Section Member=Component J6 1729225
+Added Member To Class: ClassName=Controller_Section Member=Component J9 Socket
+Added Member To Class: ClassName=Controller_Section Member=Component J10 Socket
+Added Member To Class: ClassName=Power_Section Member=Component L3 SHCJ73-100M
+Added Member To Class: ClassName=Power_Section Member=Component L4 SHCJ73-100M
+Added Member To Class: ClassName=Controller_Section Member=Component LED22 LTST-C190KGKT
+Added Member To Class: ClassName=Power_Section Member=Component R3 1K
+Added Member To Class: ClassName=Power_Section Member=Component R11 100K
+Added Member To Class: ClassName=MOSFET_Section Member=Component R22 4.7K
+Added Member To Class: ClassName=MOSFET_Section Member=Component R24 4.7K
+Added Member To Class: ClassName=MOSFET_Section Member=Component R32 4.7K
+Added Member To Class: ClassName=MOSFET_Section Member=Component R35 0R
+Added Member To Class: ClassName=MOSFET_Section Member=Component R38 4.7K
+Added Member To Class: ClassName=USB_Section Member=Component R53 27R
+Added Member To Class: ClassName=Controller_Section Member=Component R115 10K
+Added Member To Class: ClassName=Controller_Section Member=Component R117 100K
+Added Room: Name=Controller_Section
+Added Room: Name=Controller_Section
+Added Room: Name=Controller_Section
+Added Room: Name=MOSFET_Section
+Added Room: Name=Power_Section
+Added Room: Name=Top Sheet
+Added Room: Name=USB_Section

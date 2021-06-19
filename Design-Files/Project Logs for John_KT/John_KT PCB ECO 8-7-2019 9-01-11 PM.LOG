@@ -1,0 +1,307 @@
+Removed Pin From Net: NetName=NetC65_2 Pin=C65-2
+Removed Pin From Net: NetName=NetC66_2 Pin=C66-2
+Removed Pin From Net: NetName=NetLED3_2 Pin=LED3-2
+Removed Pin From Net: NetName=NetLED4_2 Pin=LED4-2
+Removed Pin From Net: NetName=NetLED5_2 Pin=LED5-2
+Removed Pin From Net: NetName=NetLED6_2 Pin=LED6-2
+Removed Pin From Net: NetName=NetLED7_2 Pin=LED7-2
+Removed Pin From Net: NetName=NetLED8_2 Pin=LED8-2
+Removed Pin From Net: NetName=NetLED9_2 Pin=LED9-2
+Removed Pin From Net: NetName=NetLED10_2 Pin=LED10-2
+Removed Pin From Net: NetName=NetLED11_2 Pin=LED11-2
+Removed Pin From Net: NetName=NetLED12_2 Pin=LED12-2
+Removed Pin From Net: NetName=NetLED13_2 Pin=LED13-2
+Removed Pin From Net: NetName=NetLED14_2 Pin=LED14-2
+Removed Pin From Net: NetName=NetLED15_2 Pin=LED15-2
+Removed Pin From Net: NetName=NetLED16_2 Pin=LED16-2
+Removed Pin From Net: NetName=NetLED17_2 Pin=LED17-2
+Removed Pin From Net: NetName=NetLED18_2 Pin=LED18-2
+Removed Pin From Net: NetName=NetLED19_2 Pin=LED19-2
+Removed Pin From Net: NetName=NetLED20_2 Pin=LED20-2
+Removed Pin From Net: NetName=NetLED21_2 Pin=LED21-2
+Removed Pin From Net: NetName=NetLED22_2 Pin=LED22-2
+Removed Pin From Net: NetName=NetQ11_1 Pin=R53-2
+Removed Pin From Net: NetName=NetQ12_1 Pin=R55-2
+Removed Pin From Net: NetName=NetQ13_1 Pin=R56-2
+Removed Pin From Net: NetName=NetQ14_1 Pin=R57-2
+Removed Pin From Net: NetName=NetQ23_1 Pin=R66-2
+Removed Pin From Net: NetName=NetQ24_1 Pin=R67-2
+Removed Pin From Net: NetName=NetQ25_1 Pin=R68-2
+Removed Pin From Net: NetName=NetQ26_1 Pin=R69-2
+Removed Pin From Net: NetName=NetQ35_1 Pin=R76-2
+Removed Pin From Net: NetName=NetQ36_1 Pin=R77-2
+Removed Pin From Net: NetName=NetQ41_1 Pin=R84-2
+Removed Pin From Net: NetName=NetQ42_1 Pin=R85-2
+Removed Pin From Net: NetName=NetQ43_1 Pin=R86-2
+Removed Pin From Net: NetName=NetQ44_1 Pin=R87-2
+Removed Pin From Net: NetName=NetQ53_1 Pin=R96-2
+Removed Pin From Net: NetName=NetQ54_1 Pin=R97-2
+Removed Pin From Net: NetName=NetQ55_1 Pin=R98-2
+Removed Pin From Net: NetName=NetQ56_1 Pin=R99-2
+Removed Pin From Net: NetName=NetQ65_1 Pin=R106-2
+Removed Pin From Net: NetName=NetQ66_1 Pin=R107-2
+Removed Pin From Net: NetName=NetC72_1 Pin=R117-1
+Removed Member From Class: ClassName=Power_Section Member=C66
+Removed Member From Class: ClassName=Power_Section Member=R32
+Removed Member From Class: ClassName=MOSFET_Section Member=R42
+Removed Member From Class: ClassName=MOSFET_Section Member=R43
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=C5 NewDesignator=C9
+Change Component Designator: OldDesignator=C6 NewDesignator=C8
+Change Component Designator: OldDesignator=C7 NewDesignator=C32
+Change Component Designator: OldDesignator=C8 NewDesignator=C33
+Change Component Designator: OldDesignator=C9 NewDesignator=C34
+Change Component Designator: OldDesignator=C10 NewDesignator=C35
+Change Component Designator: OldDesignator=C11 NewDesignator=C36
+Change Component Designator: OldDesignator=C12 NewDesignator=C37
+Change Component Designator: OldDesignator=C13 NewDesignator=C7
+Change Component Designator: OldDesignator=C14 NewDesignator=C18
+Change Component Designator: OldDesignator=C15 NewDesignator=C19
+Change Component Designator: OldDesignator=C16 NewDesignator=C63
+Change Component Designator: OldDesignator=C17 NewDesignator=C64
+Change Component Designator: OldDesignator=C18 NewDesignator=C65
+Change Component Designator: OldDesignator=C19 NewDesignator=C5
+Change Component Designator: OldDesignator=C20 NewDesignator=C6
+Change Component Designator: OldDesignator=C21 NewDesignator=C10
+Change Component Designator: OldDesignator=C22 NewDesignator=C20
+Change Component Designator: OldDesignator=C23 NewDesignator=C38
+Change Component Designator: OldDesignator=C24 NewDesignator=C39
+Change Component Designator: OldDesignator=C25 NewDesignator=C40
+Change Component Designator: OldDesignator=C26 NewDesignator=C41
+Change Component Designator: OldDesignator=C27 NewDesignator=C66
+Change Component Designator: OldDesignator=C28 NewDesignator=C67
+Change Component Designator: OldDesignator=C29 NewDesignator=C68
+Change Component Designator: OldDesignator=C30 NewDesignator=C69
+Change Component Designator: OldDesignator=C31 NewDesignator=C70
+Change Component Designator: OldDesignator=C32 NewDesignator=C71
+Change Component Designator: OldDesignator=C33 NewDesignator=C72
+Change Component Designator: OldDesignator=C34 NewDesignator=C73
+Change Component Designator: OldDesignator=C35 NewDesignator=C74
+Change Component Designator: OldDesignator=C36 NewDesignator=C75
+Change Component Designator: OldDesignator=C39 NewDesignator=C42
+Change Component Designator: OldDesignator=C40 NewDesignator=C43
+Change Component Designator: OldDesignator=C41 NewDesignator=C44
+Change Component Designator: OldDesignator=C42 NewDesignator=C45
+Change Component Designator: OldDesignator=C43 NewDesignator=C46
+Change Component Designator: OldDesignator=C44 NewDesignator=C47
+Change Component Designator: OldDesignator=C45 NewDesignator=C48
+Change Component Designator: OldDesignator=C46 NewDesignator=C49
+Change Component Designator: OldDesignator=C47 NewDesignator=C51
+Change Component Designator: OldDesignator=C48 NewDesignator=C52
+Change Component Designator: OldDesignator=C49 NewDesignator=C53
+Change Component Designator: OldDesignator=C50 NewDesignator=C54
+Change Component Designator: OldDesignator=C51 NewDesignator=C55
+Change Component Designator: OldDesignator=C52 NewDesignator=C56
+Change Component Designator: OldDesignator=C53 NewDesignator=C57
+Change Component Designator: OldDesignator=C54 NewDesignator=C58
+Change Component Designator: OldDesignator=C55 NewDesignator=C59
+Change Component Designator: OldDesignator=C56 NewDesignator=C60
+Change Component Designator: OldDesignator=C57 NewDesignator=C61
+Change Component Designator: OldDesignator=C58 NewDesignator=C62
+Change Component Designator: OldDesignator=C59 NewDesignator=C50
+Change Component Designator: OldDesignator=C60 NewDesignator=C12
+Change Component Designator: OldDesignator=C65 NewDesignator=C17
+Change Component Designator: OldDesignator=C66 NewDesignator=C22
+Change Component Designator: OldDesignator=C67 NewDesignator=C24
+Change Component Designator: OldDesignator=C75 NewDesignator=C31
+Change Component Designator: OldDesignator=C76 NewDesignator=C28
+Change Component Designator: OldDesignator=C77 NewDesignator=C23
+Change Component Designator: OldDesignator=D1 NewDesignator=D3
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=J6 NewDesignator=J7
+Change Component Designator: OldDesignator=J7 NewDesignator=J8
+Change Component Designator: OldDesignator=J8 NewDesignator=J9
+Change Component Designator: OldDesignator=J9 NewDesignator=J6
+Change Component Designator: OldDesignator=L3 NewDesignator=L6
+Change Component Designator: OldDesignator=L512 NewDesignator=L5
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED22
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED2
+Change Component Designator: OldDesignator=LED4 NewDesignator=LED3
+Change Component Designator: OldDesignator=LED5 NewDesignator=LED4
+Change Component Designator: OldDesignator=LED6 NewDesignator=LED5
+Change Component Designator: OldDesignator=LED7 NewDesignator=LED6
+Change Component Designator: OldDesignator=LED8 NewDesignator=LED7
+Change Component Designator: OldDesignator=LED9 NewDesignator=LED8
+Change Component Designator: OldDesignator=LED10 NewDesignator=LED9
+Change Component Designator: OldDesignator=LED11 NewDesignator=LED10
+Change Component Designator: OldDesignator=LED12 NewDesignator=LED11
+Change Component Designator: OldDesignator=LED13 NewDesignator=LED12
+Change Component Designator: OldDesignator=LED14 NewDesignator=LED13
+Change Component Designator: OldDesignator=LED15 NewDesignator=LED14
+Change Component Designator: OldDesignator=LED16 NewDesignator=LED15
+Change Component Designator: OldDesignator=LED17 NewDesignator=LED16
+Change Component Designator: OldDesignator=LED18 NewDesignator=LED17
+Change Component Designator: OldDesignator=LED19 NewDesignator=LED18
+Change Component Designator: OldDesignator=LED20 NewDesignator=LED19
+Change Component Designator: OldDesignator=LED21 NewDesignator=LED20
+Change Component Designator: OldDesignator=LED22 NewDesignator=LED21
+Change Component Designator: OldDesignator=P1 NewDesignator=P3
+Change Component Designator: OldDesignator=P2 NewDesignator=P4
+Change Component Designator: OldDesignator=P3 NewDesignator=P5
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q4
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q6
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q7
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q8
+Change Component Designator: OldDesignator=Q7 NewDesignator=Q9
+Change Component Designator: OldDesignator=Q8 NewDesignator=Q10
+Change Component Designator: OldDesignator=Q9 NewDesignator=Q11
+Change Component Designator: OldDesignator=Q10 NewDesignator=Q72
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R16
+Change Component Designator: OldDesignator=R6 NewDesignator=R19
+Change Component Designator: OldDesignator=R7 NewDesignator=R25
+Change Component Designator: OldDesignator=R8 NewDesignator=R17
+Change Component Designator: OldDesignator=R9 NewDesignator=R18
+Change Component Designator: OldDesignator=R10 NewDesignator=R21
+Change Component Designator: OldDesignator=R11 NewDesignator=R23
+Change Component Designator: OldDesignator=R12 NewDesignator=R26
+Change Component Designator: OldDesignator=R13 NewDesignator=R27
+Change Component Designator: OldDesignator=R14 NewDesignator=R28
+Change Component Designator: OldDesignator=R15 NewDesignator=R29
+Change Component Designator: OldDesignator=R16 NewDesignator=R30
+Change Component Designator: OldDesignator=R17 NewDesignator=R31
+Change Component Designator: OldDesignator=R18 NewDesignator=R33
+Change Component Designator: OldDesignator=R19 NewDesignator=R35
+Change Component Designator: OldDesignator=R20 NewDesignator=R37
+Change Component Designator: OldDesignator=R21 NewDesignator=R38
+Change Component Designator: OldDesignator=R22 NewDesignator=R39
+Change Component Designator: OldDesignator=R23 NewDesignator=R40
+Change Component Designator: OldDesignator=R24 NewDesignator=R41
+Change Component Designator: OldDesignator=R25 NewDesignator=R42
+Change Component Designator: OldDesignator=R26 NewDesignator=R43
+Change Component Designator: OldDesignator=R27 NewDesignator=R45
+Change Component Designator: OldDesignator=R28 NewDesignator=R47
+Change Component Designator: OldDesignator=R29 NewDesignator=R49
+Change Component Designator: OldDesignator=R30 NewDesignator=R50
+Change Component Designator: OldDesignator=R31 NewDesignator=R51
+Change Component Designator: OldDesignator=R32 NewDesignator=R3
+Change Component Designator: OldDesignator=R33 NewDesignator=R114
+Change Component Designator: OldDesignator=R34 NewDesignator=R115
+Change Component Designator: OldDesignator=R35 NewDesignator=R116
+Change Component Designator: OldDesignator=R36 NewDesignator=R117
+Change Component Designator: OldDesignator=R37 NewDesignator=R52
+Change Component Designator: OldDesignator=R38 NewDesignator=R53
+Change Component Designator: OldDesignator=R39 NewDesignator=R118
+Change Component Designator: OldDesignator=R40 NewDesignator=R119
+Change Component Designator: OldDesignator=R41 NewDesignator=R20
+Change Component Designator: OldDesignator=R42 NewDesignator=R22
+Change Component Designator: OldDesignator=R43 NewDesignator=R24
+Change Component Designator: OldDesignator=R44 NewDesignator=R32
+Change Component Designator: OldDesignator=R45 NewDesignator=R34
+Change Component Designator: OldDesignator=R46 NewDesignator=R36
+Change Component Designator: OldDesignator=R47 NewDesignator=R44
+Change Component Designator: OldDesignator=R48 NewDesignator=R46
+Change Component Designator: OldDesignator=R49 NewDesignator=R48
+Change Component Designator: OldDesignator=R53 NewDesignator=R58
+Change Component Designator: OldDesignator=R55 NewDesignator=R59
+Change Component Designator: OldDesignator=R56 NewDesignator=R60
+Change Component Designator: OldDesignator=R57 NewDesignator=R61
+Change Component Designator: OldDesignator=R66 NewDesignator=R70
+Change Component Designator: OldDesignator=R67 NewDesignator=R71
+Change Component Designator: OldDesignator=R68 NewDesignator=R72
+Change Component Designator: OldDesignator=R69 NewDesignator=R73
+Change Component Designator: OldDesignator=R76 NewDesignator=R80
+Change Component Designator: OldDesignator=R77 NewDesignator=R81
+Change Component Designator: OldDesignator=R84 NewDesignator=R88
+Change Component Designator: OldDesignator=R85 NewDesignator=R89
+Change Component Designator: OldDesignator=R86 NewDesignator=R90
+Change Component Designator: OldDesignator=R87 NewDesignator=R91
+Change Component Designator: OldDesignator=R96 NewDesignator=R100
+Change Component Designator: OldDesignator=R97 NewDesignator=R101
+Change Component Designator: OldDesignator=R98 NewDesignator=R102
+Change Component Designator: OldDesignator=R99 NewDesignator=R103
+Change Component Designator: OldDesignator=R106 NewDesignator=R110
+Change Component Designator: OldDesignator=R107 NewDesignator=R111
+Change Component Designator: OldDesignator=R115 NewDesignator=R11
+Change Component Designator: OldDesignator=R117 NewDesignator=R13
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Added Pin To Net: NetName=NetC66_2 Pin=C17-2
+Added Pin To Net: NetName=NetC62_2 Pin=C22-2
+Added Pin To Net: NetName=NetQ69_3 Pin=LED2-2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED7_2 Pin=LED7-2
+Added Pin To Net: NetName=NetLED8_2 Pin=LED8-2
+Added Pin To Net: NetName=NetLED9_2 Pin=LED9-2
+Added Pin To Net: NetName=NetLED10_2 Pin=LED10-2
+Added Pin To Net: NetName=NetLED11_2 Pin=LED11-2
+Added Pin To Net: NetName=NetLED12_2 Pin=LED12-2
+Added Pin To Net: NetName=NetLED13_2 Pin=LED13-2
+Added Pin To Net: NetName=NetLED14_2 Pin=LED14-2
+Added Pin To Net: NetName=NetLED15_2 Pin=LED15-2
+Added Pin To Net: NetName=NetLED16_2 Pin=LED16-2
+Added Pin To Net: NetName=NetLED17_2 Pin=LED17-2
+Added Pin To Net: NetName=NetLED18_2 Pin=LED18-2
+Added Pin To Net: NetName=NetLED19_2 Pin=LED19-2
+Added Pin To Net: NetName=NetLED20_2 Pin=LED20-2
+Added Pin To Net: NetName=NetLED21_2 Pin=LED21-2
+Added Pin To Net: NetName=NetC62_1 Pin=R13-1
+Added Pin To Net: NetName=NetQ12_1 Pin=R58-2
+Added Pin To Net: NetName=NetQ13_1 Pin=R59-2
+Added Pin To Net: NetName=NetQ14_1 Pin=R60-2
+Added Pin To Net: NetName=NetQ65_1 Pin=R61-2
+Added Pin To Net: NetName=NetQ24_1 Pin=R70-2
+Added Pin To Net: NetName=NetQ25_1 Pin=R71-2
+Added Pin To Net: NetName=NetQ26_1 Pin=R72-2
+Added Pin To Net: NetName=NetQ53_1 Pin=R73-2
+Added Pin To Net: NetName=NetQ36_1 Pin=R80-2
+Added Pin To Net: NetName=NetQ41_1 Pin=R81-2
+Added Pin To Net: NetName=NetQ42_1 Pin=R88-2
+Added Pin To Net: NetName=NetQ43_1 Pin=R89-2
+Added Pin To Net: NetName=NetQ44_1 Pin=R90-2
+Added Pin To Net: NetName=NetQ35_1 Pin=R91-2
+Added Pin To Net: NetName=NetQ54_1 Pin=R100-2
+Added Pin To Net: NetName=NetQ55_1 Pin=R101-2
+Added Pin To Net: NetName=NetQ56_1 Pin=R102-2
+Added Pin To Net: NetName=NetQ23_1 Pin=R103-2
+Added Pin To Net: NetName=NetQ66_1 Pin=R110-2
+Added Pin To Net: NetName=NetQ11_1 Pin=R111-2
+Change Net Name : Old Net Name=NetC36_2 New Net Name=NetC75_2
+Change Net Name : Old Net Name=NetC61_1 New Net Name=NetC26_2
+Change Net Name : Old Net Name=NetC62_1 New Net Name=NetC26_1
+Change Net Name : Old Net Name=NetC62_2 New Net Name=NetC22_2
+Change Net Name : Old Net Name=NetC65_2 New Net Name=NetC21_2
+Change Net Name : Old Net Name=NetC66_2 New Net Name=NetC17_2
+Change Net Name : Old Net Name=NetC71_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetC72_1 New Net Name=NetC14_1
+Change Net Name : Old Net Name=NetC72_2 New Net Name=NetC13_1
+Change Net Name : Old Net Name=NetD1_A New Net Name=NetD3_A
+Change Net Name : Old Net Name=NetD1_K New Net Name=NetD3_K
+Change Net Name : Old Net Name=NetLED2_1 New Net Name=NetLED22_1
+Change Net Name : Old Net Name=NetLED22_2 New Net Name=NetQ71_3
+Change Net Name : Old Net Name=NetQ10_1 New Net Name=NetQ72_1
+Change Net Name : Old Net Name=NetQ11_1 New Net Name=NetQ67_1
+Change Net Name : Old Net Name=NetQ19_3 New Net Name=NetQ65_3
+Change Net Name : Old Net Name=NetQ23_1 New Net Name=NetQ57_1
+Change Net Name : Old Net Name=NetQ31_3 New Net Name=NetQ53_3
+Change Net Name : Old Net Name=NetQ35_1 New Net Name=NetQ45_1
+Change Net Name : Old Net Name=NetQ39_3 New Net Name=NetQ41_3
+Change Net Name : Old Net Name=NetQ41_1 New Net Name=NetQ37_1
+Change Net Name : Old Net Name=NetQ49_3 New Net Name=NetQ35_3
+Change Net Name : Old Net Name=NetQ53_1 New Net Name=NetQ27_1
+Change Net Name : Old Net Name=NetQ61_3 New Net Name=NetQ23_3
+Change Net Name : Old Net Name=NetQ65_1 New Net Name=NetQ15_1
+Change Net Name : Old Net Name=NetQ69_3 New Net Name=NetLED2_2
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR4_1
+Added Member To Class: ClassName=Power_Section Member=Component C8 0.1uF
+Added Member To Class: ClassName=Power_Section Member=Component C9 22uF
+Added Member To Class: ClassName=Power_Section Member=Component C18 10uF
+Added Member To Class: ClassName=Power_Section Member=Component R5 10K
+Added Member To Class: ClassName=MOSFET_Section Member=Component R37 4.7K
+Added Member To Class: ClassName=MOSFET_Section Member=Component R39 4.7K
+Added Room: Name=Controller_Section
+Added Room: Name=Controller_Section
+Added Room: Name=Controller_Section
+Added Room: Name=MOSFET_Section
+Added Room: Name=Power_Section
+Added Room: Name=Top Sheet
+Added Room: Name=USB_Section

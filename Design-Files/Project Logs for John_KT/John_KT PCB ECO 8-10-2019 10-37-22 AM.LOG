@@ -1,0 +1,22 @@
+Change Component Comment : Designator=C29 Old Comment=10nF New Comment=22uF
+Change Component Comment : Designator=C30 Old Comment=10nF New Comment=22uF
+Change Component Description : Designator=L3 Old Description=6.8×6.5mm Max.(L×W)3.2mm Max. Height.
+·Inductance Range: 0.10~10.00 µH New Description=6.8×6.5mm Max.(L×W)3.2mm Max. Height.
+·Inductance Range: 0.10~10.00 µH
+Change Component Description : Designator=L4 Old Description=6.8×6.5mm Max.(L×W)3.2mm Max. Height.
+·Inductance Range: 0.10~10.00 µH New Description=6.8×6.5mm Max.(L×W)3.2mm Max. Height.
+·Inductance Range: 0.10~10.00 µH
+Added Component: Designator=U2(UP1735PSU8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "UPI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = "UP1735PSU8"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC21_2 Pin=U2-1
+Added Pin To Net: NetName=12V Pin=U2-2
+Added Pin To Net: NetName=Output Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=Feedback_1 Pin=U2-5
+Added Pin To Net: NetName=NetC26_2 Pin=U2-6
+Added Pin To Net: NetName=Enable_1 Pin=U2-7
+Added Pin To Net: NetName=NetC22_2 Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U2-9
+Added Member To Class: ClassName=Power_Section Member=Component U2 UP1735PSU8

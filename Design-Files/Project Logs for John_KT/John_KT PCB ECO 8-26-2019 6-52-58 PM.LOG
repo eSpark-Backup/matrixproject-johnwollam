@@ -1,0 +1,68 @@
+Added Component: Designator=P4(IL-G-11P-S3T2-SA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Brown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.jae.com/z-en/pdf_download_exec.cfm?param=2008-71-IL-G.pdf&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.jae.com/z-en/pdf_download_exec.cfm?param=2008-71-IL-G.pdf&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.157inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Friction"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JAE Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "IL-G-11P-S3T2-SA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.098inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1389=0.297 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "670-2524-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=P5(IL-G-11P-S3T2-SA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Brown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.jae.com/z-en/pdf_download_exec.cfm?param=2008-71-IL-G.pdf&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.jae.com/z-en/pdf_download_exec.cfm?param=2008-71-IL-G.pdf&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.157inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Friction"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JAE Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "IL-G-11P-S3T2-SA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.098inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1389=0.297 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "670-2524-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LED_CON_11 Pin=P4-1
+Added Pin To Net: NetName=LED_CON_12 Pin=P4-2
+Added Pin To Net: NetName=LED_CON_13 Pin=P4-3
+Added Pin To Net: NetName=LED_CON_14 Pin=P4-4
+Added Pin To Net: NetName=LED_CON_15 Pin=P4-5
+Added Pin To Net: NetName=LED_CON_21 Pin=P4-6
+Added Pin To Net: NetName=LED_CON_22 Pin=P4-7
+Added Pin To Net: NetName=LED_CON_23 Pin=P4-8
+Added Pin To Net: NetName=LED_CON_24 Pin=P4-9
+Added Pin To Net: NetName=LED_CON_25 Pin=P4-10
+Added Pin To Net: NetName=GND Pin=P4-11
+Added Pin To Net: NetName=LED_CON_31 Pin=P5-1
+Added Pin To Net: NetName=LED_CON_32 Pin=P5-2
+Added Pin To Net: NetName=LED_CON_33 Pin=P5-3
+Added Pin To Net: NetName=LED_CON_34 Pin=P5-4
+Added Pin To Net: NetName=LED_CON_35 Pin=P5-5
+Added Pin To Net: NetName=LED_CON_41 Pin=P5-6
+Added Pin To Net: NetName=LED_CON_42 Pin=P5-7
+Added Pin To Net: NetName=LED_CON_43 Pin=P5-8
+Added Pin To Net: NetName=LED_CON_44 Pin=P5-9
+Added Pin To Net: NetName=LED_CON_45 Pin=P5-10
+Added Pin To Net: NetName=GND Pin=P5-11

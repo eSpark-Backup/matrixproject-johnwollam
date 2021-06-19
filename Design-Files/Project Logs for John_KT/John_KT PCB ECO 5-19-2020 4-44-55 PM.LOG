@@ -1,0 +1,9 @@
+Added Component: Designator=L1(MS0530-2R2M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "COILMX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "MS0530-2R2M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Custom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uH"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SW_ Pin=L1-1
+Added Pin To Net: NetName=VCC_3V3 Pin=L1-2
+Added Member To Class: ClassName=Power_Section Member=Component L1 MS0530-2R2M
